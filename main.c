@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void main () {
-	char *secret="password";
+	char secret[]="password";
 	
 	printf("Hello, world !\n");
 }
